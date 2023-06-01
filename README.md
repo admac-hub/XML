@@ -10,6 +10,7 @@ I`m taking that task further by:
  - User friendly 
  - User can chose the file directories 
  - user can upload , download and Archive files as needed
- - User can Chose pick the atributes needed and how he want`s the XML to be created
+ - User can Choose pick the atributes from the files in WorkQueue so that he can be able to create the xml from the GUI
 
-Create a secure portal for enterprises to transfer XML data 
+Next Goal is to:
+- Create a secure portal for enterprises to transfer XML data 
